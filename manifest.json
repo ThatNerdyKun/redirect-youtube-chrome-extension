@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube Redirect",
+    "version": "1.0",
+    "description": "Redirects to YouTube when clicked.",
+    "action": {
+      "default_icon": {
+        "16": "opensuse.png",
+        "48": "opensuse.png",
+        "128": "opensuse.png"
+      }
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "permissions": ["tabs"]
+  }
+  
