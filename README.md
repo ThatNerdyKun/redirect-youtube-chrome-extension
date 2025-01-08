@@ -1,2 +1,2 @@
-# redirect-youtube-chrome-extension
+# Remote YouTube Chrome Extension
 Extension for chrome browser
